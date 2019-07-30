@@ -1,0 +1,28 @@
+https://www.aliexpress.com/item/33039477282.html?spm=a2g0s.9042311.0.0.27424c4dveW40g
+
+Model Number : KP3  
+Build Size: 180*180*180mm                     
+Printing Technology: FDM
+Nozzle quantity: 1
+Print precision: 0.1-0.4mm
+Nozzle: 0.4mm
+Filament Diameter: 1.75mm
+Filament: PLA/Wood/TPU/ABS
+Nozzle Temperature: =260?
+Hot bed Temperature: =110?
+File type: STL/Obj/Afm
+Printing via: USB cable and TF card
+Software: Cura/Slicer/Repetier-Host
+Operating systems: Windows XP/Vista/7/8/10/Mac/linux
+Screen language: CN/EN/RU/ES/FR/IT
+Max Travel Speed: 200mm/s
+Max Print Speed: 100mm/s
+Print Speed: =60mm/s
+Resume print due to power failure: Yes
+Filament Motor: Yes
+Aoto Living:  N/A
+Machine Power: 240W
+Rated voltage: 220V-50hz 110V-60hz
+Power Supply: 24V/15A/360W
+Machine Size: 275x310x370mm
+Weight: 7kg
