@@ -1,3 +1,5 @@
+>CUSTOM_MACHINE_NAME LittleJohn
+
 #-------------------------------------------------------------
 ############ Based Settings( Required) #######################
 #machine type
@@ -181,36 +183,6 @@
 >Z_PROBE_XY_SPEED	100					#the speed of XY
 
 
-
-#---------------------------------------------------------------
-#################  Wireless #####################################
-#wifi model (MKS wifi TFT:0; MKS HLK-Wifi:1)
-#>cfg_wifi_type 0
-
->cfg_wifi_mode 0						#wifi mode(0:sta;1:ap)
-
->cfg_wifi_ap_name Warrenhouse2					#wifi name
-
->cfg_wifi_key_code eleganttulip034					#wifi password
-
->cfg_cloud_enable 0						#0:disable cloud service 1:enable cloud service
-
->cfg_wifi_cloud_host www.baizhongyun.cn				#cloud service adress
-
->cfg_cloud_port 10086						#cloud service port
-
-#baud rate setting(1:9600;2:57600;3:115200;4:250000)
-#>cfg_baud_rate 3
-
-
-#Dynamic access IP 1 =enable dynamic 
->cfg_ip_dhcp_flag 1
-
-#IP/mask/gateway
->cfg_ip_address 192.168.1.116
->cfg_ip_mask 255.255.255.0
->cfg_ip_gate 192.168.1.1
-
 #----------------------------------------------------------------
 ###############  Special Setup(default)  ######################
 
@@ -308,3 +280,37 @@
 >cfg_printingstat_word_color			0xFFFFFF	#the color of text in printing status
 
 >cfg_BUTTON_3D_effects		0				#3D effects setting (disable: 0, enable: 1)
+
+
+
+
+
+
+#---------------------------------------------------------------
+#################  Wireless #####################################
+#wifi model (MKS wifi TFT:0; MKS HLK-Wifi:1)
+#>cfg_wifi_type 0
+
+>cfg_wifi_mode 0						#wifi mode(0:sta;1:ap)
+
+>cfg_wifi_ap_name Warrenhouse2					#wifi name
+
+>cfg_wifi_key_code aleganttulip034					#wifi password
+
+>cfg_cloud_enable 0						#0:disable cloud service 1:enable cloud service
+
+>cfg_wifi_cloud_host www.baizhongyun.cn				#cloud service adress
+
+>cfg_cloud_port 10086						#cloud service port
+
+#baud rate setting(1:9600;2:57600;3:115200;4:250000)
+#>cfg_baud_rate 3
+
+
+#Dynamic access IP 1 =enable dynamic 
+>cfg_ip_dhcp_flag 1
+
+#IP/mask/gateway
+>cfg_ip_address 192.168.1.16
+>cfg_ip_mask 255.255.255.0
+>cfg_ip_gate 192.168.1.1
